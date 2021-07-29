@@ -1,0 +1,10 @@
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1202\FormApp1202\bin\Debug\FormApp1202.exe.config
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1202\FormApp1202\bin\Debug\FormApp1202.exe
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1202\FormApp1202\bin\Debug\FormApp1202.pdb
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1202\FormApp1202\obj\Debug\FormApp1202.csprojResolveAssemblyReference.cache
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1202\FormApp1202\obj\Debug\Af.WinForms.AfTextBox.resources
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1202\FormApp1202\obj\Debug\FormApp1202.Form1.resources
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1202\FormApp1202\obj\Debug\FormApp1202.Properties.Resources.resources
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1202\FormApp1202\obj\Debug\FormApp1202.csproj.GenerateResource.Cache
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1202\FormApp1202\obj\Debug\FormApp1202.exe
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1202\FormApp1202\obj\Debug\FormApp1202.pdb

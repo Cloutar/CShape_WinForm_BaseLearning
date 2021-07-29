@@ -1,0 +1,8 @@
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0704\FormApp0704\bin\Release\FormApp0704.exe.config
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0704\FormApp0704\bin\Release\FormApp0704.exe
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0704\FormApp0704\bin\Release\FormApp0704.pdb
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0704\FormApp0704\obj\Release\FormApp0704.Form1.resources
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0704\FormApp0704\obj\Release\FormApp0704.Properties.Resources.resources
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0704\FormApp0704\obj\Release\FormApp0704.csproj.GenerateResource.Cache
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0704\FormApp0704\obj\Release\FormApp0704.exe
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0704\FormApp0704\obj\Release\FormApp0704.pdb

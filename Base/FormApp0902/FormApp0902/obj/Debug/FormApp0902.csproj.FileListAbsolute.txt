@@ -1,0 +1,10 @@
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0902\FormApp0902\bin\Debug\FormApp0902.exe.config
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0902\FormApp0902\bin\Debug\FormApp0902.exe
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0902\FormApp0902\bin\Debug\FormApp0902.pdb
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0902\FormApp0902\obj\Debug\FormApp0902.Properties.Resources.resources
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0902\FormApp0902\obj\Debug\FormApp0902.SearchBox.resources
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0902\FormApp0902\obj\Debug\FormApp0902.csproj.GenerateResource.Cache
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0902\FormApp0902\obj\Debug\FormApp0902.exe
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0902\FormApp0902\obj\Debug\FormApp0902.pdb
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0902\FormApp0902\obj\Debug\FormApp0902.Form1.resources
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0902\FormApp0902\obj\Debug\FormApp0902.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1001\FormApp1001\bin\Debug\FormApp1001.exe.config
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1001\FormApp1001\bin\Debug\FormApp1001.exe
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1001\FormApp1001\bin\Debug\FormApp1001.pdb
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1001\FormApp1001\obj\Debug\FormApp1001.csprojResolveAssemblyReference.cache
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1001\FormApp1001\obj\Debug\FormApp1001.Form1.resources
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1001\FormApp1001\obj\Debug\FormApp1001.Properties.Resources.resources
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1001\FormApp1001\obj\Debug\FormApp1001.csproj.GenerateResource.Cache
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1001\FormApp1001\obj\Debug\FormApp1001.exe
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1001\FormApp1001\obj\Debug\FormApp1001.pdb

@@ -1,0 +1,9 @@
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1402\FormApp1402\bin\Debug\FormApp1402.exe.config
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1402\FormApp1402\bin\Debug\FormApp1402.exe
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1402\FormApp1402\bin\Debug\FormApp1402.pdb
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1402\FormApp1402\obj\Debug\FormApp1402.csprojResolveAssemblyReference.cache
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1402\FormApp1402\obj\Debug\FormApp1402.Form1.resources
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1402\FormApp1402\obj\Debug\FormApp1402.Properties.Resources.resources
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1402\FormApp1402\obj\Debug\FormApp1402.csproj.GenerateResource.Cache
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1402\FormApp1402\obj\Debug\FormApp1402.exe
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1402\FormApp1402\obj\Debug\FormApp1402.pdb

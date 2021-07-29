@@ -1,0 +1,11 @@
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\Form0801\Form0801\bin\Debug\Form0801.exe.config
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\Form0801\Form0801\obj\Debug\Form0801.Form1.resources
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\Form0801\Form0801\obj\Debug\Form0801.Properties.Resources.resources
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\Form0801\Form0801\obj\Debug\Form0801.csproj.GenerateResource.Cache
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\Form0801\Form0801\bin\Debug\Form0801.exe
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\Form0801\Form0801\bin\Debug\Form0801.pdb
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\Form0801\Form0801\obj\Debug\Form0801.exe
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\Form0801\Form0801\obj\Debug\Form0801.pdb
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0801\Form0801\bin\Debug\Form0801.exe.config
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0801\Form0801\obj\Debug\Form0801.exe
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0801\Form0801\obj\Debug\Form0801.pdb

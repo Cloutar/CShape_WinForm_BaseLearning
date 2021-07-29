@@ -1,0 +1,9 @@
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1005\FormApp1005\bin\Debug\FormApp1005.exe.config
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1005\FormApp1005\bin\Debug\FormApp1005.exe
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1005\FormApp1005\bin\Debug\FormApp1005.pdb
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1005\FormApp1005\obj\Debug\Af.WinForms.AfTextBox.resources
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1005\FormApp1005\obj\Debug\FormApp1005.Properties.Resources.resources
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1005\FormApp1005\obj\Debug\FormApp1005.csproj.GenerateResource.Cache
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1005\FormApp1005\obj\Debug\FormApp1005.exe
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1005\FormApp1005\obj\Debug\FormApp1005.pdb
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp1005\FormApp1005\obj\Debug\FormApp1005.Form1.resources

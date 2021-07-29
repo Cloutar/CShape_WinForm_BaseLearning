@@ -1,0 +1,9 @@
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0603\FormApp0603\bin\Debug\FormApp0603.exe.config
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0603\FormApp0603\bin\Debug\FormApp0603.exe
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0603\FormApp0603\bin\Debug\FormApp0603.pdb
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0603\FormApp0603\obj\Debug\FormApp0603.Form1.resources
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0603\FormApp0603\obj\Debug\FormApp0603.Form2.resources
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0603\FormApp0603\obj\Debug\FormApp0603.Properties.Resources.resources
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0603\FormApp0603\obj\Debug\FormApp0603.csproj.GenerateResource.Cache
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0603\FormApp0603\obj\Debug\FormApp0603.exe
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0603\FormApp0603\obj\Debug\FormApp0603.pdb
