@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "进程", "进程\进程.csproj", "{7E48CE3E-F809-4362-95E7-C9D842F5F569}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E48CE3E-F809-4362-95E7-C9D842F5F569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E48CE3E-F809-4362-95E7-C9D842F5F569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E48CE3E-F809-4362-95E7-C9D842F5F569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E48CE3E-F809-4362-95E7-C9D842F5F569}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

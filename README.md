@@ -21,6 +21,8 @@ Document my learning the basics of C# Winform
 ## Other
 
 * ___dialog___: 对话框, 因为base中这个部分要收费, 所以自己实现一下
+* ___进程 & 线程___: [传智播客C#第十五天Winform基础_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1fW411v7Sd?p=11)
+* ___委托和事件___: [C#委托以及事件的使用_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV157411j7E8?p=3)
 
 
 
@@ -28,5 +30,5 @@ Document my learning the basics of C# Winform
 
 * __BASE__: 不推荐, 是个坑, 有些地方要收费
 
-* ___Todo___: 委托 事件 线程 等
+* ___Todo___:  多种控件 集合 自定义泛型 等
 
