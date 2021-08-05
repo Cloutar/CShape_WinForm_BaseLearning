@@ -1,0 +1,32 @@
+记录: 
+
+ListBox 列表框
+
+ComboBox 下拉列表框
+
+CheckedListBox 多选列表框
+
+DateTimePicker 日期时间控件
+
+MonthCalendar 日历控件
+
+MaskedTextBox 指定格式文本框
+
+NumercUpDown 数值选择控件
+
+PictureBox 图片控件
+
+RichTextBox 有样式的文本框
+
+Forms.Timer   基于UI的计时器
+一次时间过长不影响下一次触发: 
+Timers.Timer  基于服务的计时器 
+Threading.Timer  提供以指定的时间间隔对线程池线程执行方法的机制(多线程)
+
+WebBrowser 浏览器控件
+
+TreeView 树状菜单
+
+ProgressBar 进度条
+
+.............
