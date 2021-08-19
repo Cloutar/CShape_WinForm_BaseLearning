@@ -27,6 +27,7 @@ Document my learning the basics of C# Winform
 * ___概念课___: [【01_C#入门到精通】新手强烈推荐：C#开发课程，一整套课程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1FJ411W7e5?p=1)
 * ___自定义泛型___: [C#.Net基础加强第七天-自定义泛型 for foreach循环_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1yx411e7jw?p=3)
 * ___多种控件Mark___: [【.Net开发到架构训练营】C# Winform 零基础精讲从概念讲到实战(C#/.NET/.NET Core/Asp.Net Core/编程/架构）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1rg4y1v7Jm?p=24&spm_id_from=pageDriver)
+* ___报表RDLC___: [强烈推荐必看.C#技术从入门到高级工程师系列视频课.报表技术.三层架构.多线程.网络编程.项目设计_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1zv411x7C7?p=76)
 
 
 

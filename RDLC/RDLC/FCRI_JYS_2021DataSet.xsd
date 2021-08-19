@@ -1,0 +1,374 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="FCRI_JYS_2021DataSet" targetNamespace="http://tempuri.org/FCRI_JYS_2021DataSet.xsd" xmlns:mstns="http://tempuri.org/FCRI_JYS_2021DataSet.xsd" xmlns="http://tempuri.org/FCRI_JYS_2021DataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="FCRI_JYS_2021ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="FCRI_JYS_2021ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.RDLC.Properties.Settings.GlobalReference.Default.FCRI_JYS_2021ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="V02_WTTableAdapter" GeneratorDataComponentClassName="V02_WTTableAdapter" Name="V02_WT" UserDataComponentName="V02_WTTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="FCRI_JYS_2021ConnectionString (Settings)" DbObjectName="FCRI_JYS_2021.dbo.V02_WT" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT in_id, va_code, sd_date, sd_date_income, va_custno, va_custname, va_postcode, va_linkpeople, de_amount, va_daxie, va_note, in_finishday, va_operator, bi_forbid, bi_money, bi_jb1, bi_jb2, bi_jb3, bi_bg1, bi_bg2, bi_bg3, bi_bg4, bi_bg5, bi_jc1, bi_jc2, bi_bz1, bi_bz2, bi_bz3, bi_bz4, bi_bz5, in_line, va_yp, de_qnty, va_dw, in_jctype, va_jctype, va_jcxm, va_ypzk, va_yp_no, de_amount1, va_wan, va_qian, va_bai, va_shi, va_yuan, va_finish_date, bi_exigence, va_phone, va_fax, va_address, sd_finish_date, bi_finish FROM dbo.V02_WT</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="in_id" DataSetColumn="in_id" />
+              <Mapping SourceColumn="va_code" DataSetColumn="va_code" />
+              <Mapping SourceColumn="sd_date" DataSetColumn="sd_date" />
+              <Mapping SourceColumn="sd_date_income" DataSetColumn="sd_date_income" />
+              <Mapping SourceColumn="va_custno" DataSetColumn="va_custno" />
+              <Mapping SourceColumn="va_custname" DataSetColumn="va_custname" />
+              <Mapping SourceColumn="va_postcode" DataSetColumn="va_postcode" />
+              <Mapping SourceColumn="va_linkpeople" DataSetColumn="va_linkpeople" />
+              <Mapping SourceColumn="de_amount" DataSetColumn="de_amount" />
+              <Mapping SourceColumn="va_daxie" DataSetColumn="va_daxie" />
+              <Mapping SourceColumn="va_note" DataSetColumn="va_note" />
+              <Mapping SourceColumn="in_finishday" DataSetColumn="in_finishday" />
+              <Mapping SourceColumn="va_operator" DataSetColumn="va_operator" />
+              <Mapping SourceColumn="bi_forbid" DataSetColumn="bi_forbid" />
+              <Mapping SourceColumn="bi_money" DataSetColumn="bi_money" />
+              <Mapping SourceColumn="bi_jb1" DataSetColumn="bi_jb1" />
+              <Mapping SourceColumn="bi_jb2" DataSetColumn="bi_jb2" />
+              <Mapping SourceColumn="bi_jb3" DataSetColumn="bi_jb3" />
+              <Mapping SourceColumn="bi_bg1" DataSetColumn="bi_bg1" />
+              <Mapping SourceColumn="bi_bg2" DataSetColumn="bi_bg2" />
+              <Mapping SourceColumn="bi_bg3" DataSetColumn="bi_bg3" />
+              <Mapping SourceColumn="bi_bg4" DataSetColumn="bi_bg4" />
+              <Mapping SourceColumn="bi_bg5" DataSetColumn="bi_bg5" />
+              <Mapping SourceColumn="bi_jc1" DataSetColumn="bi_jc1" />
+              <Mapping SourceColumn="bi_jc2" DataSetColumn="bi_jc2" />
+              <Mapping SourceColumn="bi_bz1" DataSetColumn="bi_bz1" />
+              <Mapping SourceColumn="bi_bz2" DataSetColumn="bi_bz2" />
+              <Mapping SourceColumn="bi_bz3" DataSetColumn="bi_bz3" />
+              <Mapping SourceColumn="bi_bz4" DataSetColumn="bi_bz4" />
+              <Mapping SourceColumn="bi_bz5" DataSetColumn="bi_bz5" />
+              <Mapping SourceColumn="in_line" DataSetColumn="in_line" />
+              <Mapping SourceColumn="va_yp" DataSetColumn="va_yp" />
+              <Mapping SourceColumn="de_qnty" DataSetColumn="de_qnty" />
+              <Mapping SourceColumn="va_dw" DataSetColumn="va_dw" />
+              <Mapping SourceColumn="in_jctype" DataSetColumn="in_jctype" />
+              <Mapping SourceColumn="va_jctype" DataSetColumn="va_jctype" />
+              <Mapping SourceColumn="va_jcxm" DataSetColumn="va_jcxm" />
+              <Mapping SourceColumn="va_ypzk" DataSetColumn="va_ypzk" />
+              <Mapping SourceColumn="va_yp_no" DataSetColumn="va_yp_no" />
+              <Mapping SourceColumn="de_amount1" DataSetColumn="de_amount1" />
+              <Mapping SourceColumn="va_wan" DataSetColumn="va_wan" />
+              <Mapping SourceColumn="va_qian" DataSetColumn="va_qian" />
+              <Mapping SourceColumn="va_bai" DataSetColumn="va_bai" />
+              <Mapping SourceColumn="va_shi" DataSetColumn="va_shi" />
+              <Mapping SourceColumn="va_yuan" DataSetColumn="va_yuan" />
+              <Mapping SourceColumn="va_finish_date" DataSetColumn="va_finish_date" />
+              <Mapping SourceColumn="bi_exigence" DataSetColumn="bi_exigence" />
+              <Mapping SourceColumn="va_phone" DataSetColumn="va_phone" />
+              <Mapping SourceColumn="va_fax" DataSetColumn="va_fax" />
+              <Mapping SourceColumn="va_address" DataSetColumn="va_address" />
+              <Mapping SourceColumn="sd_finish_date" DataSetColumn="sd_finish_date" />
+              <Mapping SourceColumn="bi_finish" DataSetColumn="bi_finish" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="FCRI_JYS_2021DataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="FCRI_JYS_2021DataSet" msprop:Generator_UserDSName="FCRI_JYS_2021DataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="V02_WT" msprop:Generator_TableClassName="V02_WTDataTable" msprop:Generator_TableVarName="tableV02_WT" msprop:Generator_TablePropName="V02_WT" msprop:Generator_RowDeletingName="V02_WTRowDeleting" msprop:Generator_RowChangingName="V02_WTRowChanging" msprop:Generator_RowEvHandlerName="V02_WTRowChangeEventHandler" msprop:Generator_RowDeletedName="V02_WTRowDeleted" msprop:Generator_UserTableName="V02_WT" msprop:Generator_RowChangedName="V02_WTRowChanged" msprop:Generator_RowEvArgName="V02_WTRowChangeEvent" msprop:Generator_RowClassName="V02_WTRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="in_id" msprop:Generator_ColumnVarNameInTable="columnin_id" msprop:Generator_ColumnPropNameInRow="in_id" msprop:Generator_ColumnPropNameInTable="in_idColumn" msprop:Generator_UserColumnName="in_id" type="xs:long" />
+              <xs:element name="va_code" msprop:Generator_ColumnVarNameInTable="columnva_code" msprop:Generator_ColumnPropNameInRow="va_code" msprop:Generator_ColumnPropNameInTable="va_codeColumn" msprop:Generator_UserColumnName="va_code">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="sd_date" msprop:Generator_ColumnVarNameInTable="columnsd_date" msprop:Generator_ColumnPropNameInRow="sd_date" msprop:Generator_ColumnPropNameInTable="sd_dateColumn" msprop:Generator_UserColumnName="sd_date" type="xs:dateTime" />
+              <xs:element name="sd_date_income" msprop:Generator_ColumnVarNameInTable="columnsd_date_income" msprop:Generator_ColumnPropNameInRow="sd_date_income" msprop:Generator_ColumnPropNameInTable="sd_date_incomeColumn" msprop:Generator_UserColumnName="sd_date_income" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="va_custno" msprop:Generator_ColumnVarNameInTable="columnva_custno" msprop:Generator_ColumnPropNameInRow="va_custno" msprop:Generator_ColumnPropNameInTable="va_custnoColumn" msprop:Generator_UserColumnName="va_custno">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="va_custname" msprop:Generator_ColumnVarNameInTable="columnva_custname" msprop:Generator_ColumnPropNameInRow="va_custname" msprop:Generator_ColumnPropNameInTable="va_custnameColumn" msprop:Generator_UserColumnName="va_custname" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="va_postcode" msprop:Generator_ColumnVarNameInTable="columnva_postcode" msprop:Generator_ColumnPropNameInRow="va_postcode" msprop:Generator_ColumnPropNameInTable="va_postcodeColumn" msprop:Generator_UserColumnName="va_postcode" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="va_linkpeople" msprop:Generator_ColumnVarNameInTable="columnva_linkpeople" msprop:Generator_ColumnPropNameInRow="va_linkpeople" msprop:Generator_ColumnPropNameInTable="va_linkpeopleColumn" msprop:Generator_UserColumnName="va_linkpeople" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="de_amount" msprop:Generator_ColumnVarNameInTable="columnde_amount" msprop:Generator_ColumnPropNameInRow="de_amount" msprop:Generator_ColumnPropNameInTable="de_amountColumn" msprop:Generator_UserColumnName="de_amount" type="xs:decimal" />
+              <xs:element name="va_daxie" msprop:Generator_ColumnVarNameInTable="columnva_daxie" msprop:Generator_ColumnPropNameInRow="va_daxie" msprop:Generator_ColumnPropNameInTable="va_daxieColumn" msprop:Generator_UserColumnName="va_daxie">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="va_note" msprop:Generator_ColumnVarNameInTable="columnva_note" msprop:Generator_ColumnPropNameInRow="va_note" msprop:Generator_ColumnPropNameInTable="va_noteColumn" msprop:Generator_UserColumnName="va_note">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="in_finishday" msprop:Generator_ColumnVarNameInTable="columnin_finishday" msprop:Generator_ColumnPropNameInRow="in_finishday" msprop:Generator_ColumnPropNameInTable="in_finishdayColumn" msprop:Generator_UserColumnName="in_finishday" type="xs:int" minOccurs="0" />
+              <xs:element name="va_operator" msprop:Generator_ColumnVarNameInTable="columnva_operator" msprop:Generator_ColumnPropNameInRow="va_operator" msprop:Generator_ColumnPropNameInTable="va_operatorColumn" msprop:Generator_UserColumnName="va_operator">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="bi_forbid" msprop:Generator_ColumnVarNameInTable="columnbi_forbid" msprop:Generator_ColumnPropNameInRow="bi_forbid" msprop:Generator_ColumnPropNameInTable="bi_forbidColumn" msprop:Generator_UserColumnName="bi_forbid" type="xs:boolean" />
+              <xs:element name="bi_money" msprop:Generator_ColumnVarNameInTable="columnbi_money" msprop:Generator_ColumnPropNameInRow="bi_money" msprop:Generator_ColumnPropNameInTable="bi_moneyColumn" msprop:Generator_UserColumnName="bi_money" type="xs:boolean" />
+              <xs:element name="bi_jb1" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnbi_jb1" msprop:Generator_ColumnPropNameInRow="bi_jb1" msprop:Generator_ColumnPropNameInTable="bi_jb1Column" msprop:Generator_UserColumnName="bi_jb1" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="bi_jb2" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnbi_jb2" msprop:Generator_ColumnPropNameInRow="bi_jb2" msprop:Generator_ColumnPropNameInTable="bi_jb2Column" msprop:Generator_UserColumnName="bi_jb2" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="bi_jb3" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnbi_jb3" msprop:Generator_ColumnPropNameInRow="bi_jb3" msprop:Generator_ColumnPropNameInTable="bi_jb3Column" msprop:Generator_UserColumnName="bi_jb3" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="bi_bg1" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnbi_bg1" msprop:Generator_ColumnPropNameInRow="bi_bg1" msprop:Generator_ColumnPropNameInTable="bi_bg1Column" msprop:Generator_UserColumnName="bi_bg1" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="bi_bg2" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnbi_bg2" msprop:Generator_ColumnPropNameInRow="bi_bg2" msprop:Generator_ColumnPropNameInTable="bi_bg2Column" msprop:Generator_UserColumnName="bi_bg2" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="bi_bg3" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnbi_bg3" msprop:Generator_ColumnPropNameInRow="bi_bg3" msprop:Generator_ColumnPropNameInTable="bi_bg3Column" msprop:Generator_UserColumnName="bi_bg3" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="bi_bg4" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnbi_bg4" msprop:Generator_ColumnPropNameInRow="bi_bg4" msprop:Generator_ColumnPropNameInTable="bi_bg4Column" msprop:Generator_UserColumnName="bi_bg4" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="bi_bg5" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnbi_bg5" msprop:Generator_ColumnPropNameInRow="bi_bg5" msprop:Generator_ColumnPropNameInTable="bi_bg5Column" msprop:Generator_UserColumnName="bi_bg5" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="bi_jc1" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnbi_jc1" msprop:Generator_ColumnPropNameInRow="bi_jc1" msprop:Generator_ColumnPropNameInTable="bi_jc1Column" msprop:Generator_UserColumnName="bi_jc1" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="bi_jc2" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnbi_jc2" msprop:Generator_ColumnPropNameInRow="bi_jc2" msprop:Generator_ColumnPropNameInTable="bi_jc2Column" msprop:Generator_UserColumnName="bi_jc2" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="bi_bz1" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnbi_bz1" msprop:Generator_ColumnPropNameInRow="bi_bz1" msprop:Generator_ColumnPropNameInTable="bi_bz1Column" msprop:Generator_UserColumnName="bi_bz1" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="bi_bz2" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnbi_bz2" msprop:Generator_ColumnPropNameInRow="bi_bz2" msprop:Generator_ColumnPropNameInTable="bi_bz2Column" msprop:Generator_UserColumnName="bi_bz2" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="bi_bz3" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnbi_bz3" msprop:Generator_ColumnPropNameInRow="bi_bz3" msprop:Generator_ColumnPropNameInTable="bi_bz3Column" msprop:Generator_UserColumnName="bi_bz3" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="bi_bz4" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnbi_bz4" msprop:Generator_ColumnPropNameInRow="bi_bz4" msprop:Generator_ColumnPropNameInTable="bi_bz4Column" msprop:Generator_UserColumnName="bi_bz4" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="bi_bz5" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnbi_bz5" msprop:Generator_ColumnPropNameInRow="bi_bz5" msprop:Generator_ColumnPropNameInTable="bi_bz5Column" msprop:Generator_UserColumnName="bi_bz5" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="in_line" msprop:Generator_ColumnVarNameInTable="columnin_line" msprop:Generator_ColumnPropNameInRow="in_line" msprop:Generator_ColumnPropNameInTable="in_lineColumn" msprop:Generator_UserColumnName="in_line" type="xs:int" minOccurs="0" />
+              <xs:element name="va_yp" msprop:Generator_ColumnVarNameInTable="columnva_yp" msprop:Generator_ColumnPropNameInRow="va_yp" msprop:Generator_ColumnPropNameInTable="va_ypColumn" msprop:Generator_UserColumnName="va_yp" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="de_qnty" msprop:Generator_ColumnVarNameInTable="columnde_qnty" msprop:Generator_ColumnPropNameInRow="de_qnty" msprop:Generator_ColumnPropNameInTable="de_qntyColumn" msprop:Generator_UserColumnName="de_qnty" type="xs:decimal" minOccurs="0" />
+              <xs:element name="va_dw" msprop:Generator_ColumnVarNameInTable="columnva_dw" msprop:Generator_ColumnPropNameInRow="va_dw" msprop:Generator_ColumnPropNameInTable="va_dwColumn" msprop:Generator_UserColumnName="va_dw" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="in_jctype" msprop:Generator_ColumnVarNameInTable="columnin_jctype" msprop:Generator_ColumnPropNameInRow="in_jctype" msprop:Generator_ColumnPropNameInTable="in_jctypeColumn" msprop:Generator_UserColumnName="in_jctype" type="xs:int" minOccurs="0" />
+              <xs:element name="va_jctype" msprop:Generator_ColumnVarNameInTable="columnva_jctype" msprop:Generator_ColumnPropNameInRow="va_jctype" msprop:Generator_ColumnPropNameInTable="va_jctypeColumn" msprop:Generator_UserColumnName="va_jctype" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="va_jcxm" msprop:Generator_ColumnVarNameInTable="columnva_jcxm" msprop:Generator_ColumnPropNameInRow="va_jcxm" msprop:Generator_ColumnPropNameInTable="va_jcxmColumn" msprop:Generator_UserColumnName="va_jcxm" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="va_ypzk" msprop:Generator_ColumnVarNameInTable="columnva_ypzk" msprop:Generator_ColumnPropNameInRow="va_ypzk" msprop:Generator_ColumnPropNameInTable="va_ypzkColumn" msprop:Generator_UserColumnName="va_ypzk" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="va_yp_no" msprop:Generator_ColumnVarNameInTable="columnva_yp_no" msprop:Generator_ColumnPropNameInRow="va_yp_no" msprop:Generator_ColumnPropNameInTable="va_yp_noColumn" msprop:Generator_UserColumnName="va_yp_no" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="de_amount1" msprop:Generator_ColumnVarNameInTable="columnde_amount1" msprop:Generator_ColumnPropNameInRow="de_amount1" msprop:Generator_ColumnPropNameInTable="de_amount1Column" msprop:Generator_UserColumnName="de_amount1" type="xs:decimal" minOccurs="0" />
+              <xs:element name="va_wan" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnva_wan" msprop:Generator_ColumnPropNameInRow="va_wan" msprop:Generator_ColumnPropNameInTable="va_wanColumn" msprop:Generator_UserColumnName="va_wan" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="va_qian" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnva_qian" msprop:Generator_ColumnPropNameInRow="va_qian" msprop:Generator_ColumnPropNameInTable="va_qianColumn" msprop:Generator_UserColumnName="va_qian" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="va_bai" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnva_bai" msprop:Generator_ColumnPropNameInRow="va_bai" msprop:Generator_ColumnPropNameInTable="va_baiColumn" msprop:Generator_UserColumnName="va_bai" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="va_shi" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnva_shi" msprop:Generator_ColumnPropNameInRow="va_shi" msprop:Generator_ColumnPropNameInTable="va_shiColumn" msprop:Generator_UserColumnName="va_shi" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="va_yuan" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnva_yuan" msprop:Generator_ColumnPropNameInRow="va_yuan" msprop:Generator_ColumnPropNameInTable="va_yuanColumn" msprop:Generator_UserColumnName="va_yuan" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="va_finish_date" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnva_finish_date" msprop:Generator_ColumnPropNameInRow="va_finish_date" msprop:Generator_ColumnPropNameInTable="va_finish_dateColumn" msprop:Generator_UserColumnName="va_finish_date" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="bi_exigence" msprop:Generator_ColumnVarNameInTable="columnbi_exigence" msprop:Generator_ColumnPropNameInRow="bi_exigence" msprop:Generator_ColumnPropNameInTable="bi_exigenceColumn" msprop:Generator_UserColumnName="bi_exigence" type="xs:boolean" />
+              <xs:element name="va_phone" msprop:Generator_ColumnVarNameInTable="columnva_phone" msprop:Generator_ColumnPropNameInRow="va_phone" msprop:Generator_ColumnPropNameInTable="va_phoneColumn" msprop:Generator_UserColumnName="va_phone" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="va_fax" msprop:Generator_ColumnVarNameInTable="columnva_fax" msprop:Generator_ColumnPropNameInRow="va_fax" msprop:Generator_ColumnPropNameInTable="va_faxColumn" msprop:Generator_UserColumnName="va_fax" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="va_address" msprop:Generator_ColumnVarNameInTable="columnva_address" msprop:Generator_ColumnPropNameInRow="va_address" msprop:Generator_ColumnPropNameInTable="va_addressColumn" msprop:Generator_UserColumnName="va_address" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="sd_finish_date" msprop:Generator_ColumnVarNameInTable="columnsd_finish_date" msprop:Generator_ColumnPropNameInRow="sd_finish_date" msprop:Generator_ColumnPropNameInTable="sd_finish_dateColumn" msprop:Generator_UserColumnName="sd_finish_date" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="bi_finish" msprop:Generator_ColumnVarNameInTable="columnbi_finish" msprop:Generator_ColumnPropNameInRow="bi_finish" msprop:Generator_ColumnPropNameInTable="bi_finishColumn" msprop:Generator_UserColumnName="bi_finish" type="xs:boolean" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

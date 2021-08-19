@@ -6,3 +6,6 @@ C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0705\FormApp0705\obj\Debug\F
 C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0705\FormApp0705\obj\Debug\FormApp0705.csproj.GenerateResource.Cache
 C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0705\FormApp0705\obj\Debug\FormApp0705.exe
 C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\FormApp0705\FormApp0705\obj\Debug\FormApp0705.pdb
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\Base\FormApp0705\FormApp0705\bin\Debug\FormApp0705.exe.config
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\Base\FormApp0705\FormApp0705\obj\Debug\FormApp0705.exe
+C:\Users\fcrit\Desktop\C#_Project\C#_WinForm\Base\FormApp0705\FormApp0705\obj\Debug\FormApp0705.pdb
